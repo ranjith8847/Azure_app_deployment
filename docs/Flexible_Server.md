@@ -7,7 +7,9 @@ Why flexible?
 has the High Availability and Disaster Recovery
 
 ![Enter image alt description](Images/tJJ_Image_1.png)
+
 ![Enter image alt description](Images/Iqd_Image_2.png)
+
 ![Enter image alt description](Images/THt_Image_3.png)
 
 ![Enter image alt description](Images/D6H_Image_4.png)
