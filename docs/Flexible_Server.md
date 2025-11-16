@@ -1,4 +1,4 @@
-## 1. ResourceGroup**
+## 1. ResourceGroup
 
 - **resource group name**: try to give name for easier identification.
 - - **region:** east asia. (Select one nearest to your geographic Location)
