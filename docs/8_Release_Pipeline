@@ -1,0 +1,26 @@
+## 8. RELEASE PIPELINES
+
+In Azure DevOps, under **Pipelines**, go to **Releases**.  
+Click **New Pipeline** and select **Empty Job**.
+
+Next, click **Add an artifact**, choose the source pipeline  
+(the build pipeline created earlier), and click **Add**.
+
+![Enter image alt description](../Images/FIt_Image_45.png)
+
+---
+
+Click on **Job → Tasks**.
+
+![Enter image alt description](../Images/CYg_Image_46.png)
+
+---
+
+Click **“+”** and add **Azure App Service Deploy**.
+
+![Enter image alt description](../Images/S9X_Image_47.png)
+
+---
+
+Select your Azure subscription.  
+If authorization is required, complete the authorization process.
